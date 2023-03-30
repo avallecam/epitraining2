@@ -18,28 +18,28 @@ knitr::opts_chunk$set(
 )
 ```
 
-# {{ packagename }}
+# epitraining2
 
 <!-- badges: start -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![R-CMD-check](https://github.com/{{ gh_repo }}/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/{{ gh_repo }}/actions/workflows/R-CMD-check.yaml)
-[![Codecov test coverage](https://codecov.io/gh/{{ gh_repo }}/branch/main/graph/badge.svg)](https://app.codecov.io/gh/{{ gh_repo }}?branch=main)
+[![R-CMD-check](https://github.com/avallecam/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/avallecam/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/avallecam/branch/main/graph/badge.svg)](https://app.codecov.io/gh/avallecam?branch=main)
 [![lifecycle-concept](https://raw.githubusercontent.com/reconverse/reconverse.github.io/master/images/badge-concept.svg)](https://www.reconverse.org/lifecycle.html#concept) 
 <!-- badges: end -->
 
-{{ packagename }} provides functions to ....
+epitraining2 provides functions to ....
 
 <!-- This sentence is optional and can be removed -->
-{{ packagename }} is developed at the [CENTER|similar](url) at the [UNIVERSITY|similar](url) as part of the [Epiverse-TRACE program](https://data.org/initiatives/epiverse/).
+epitraining2 is developed at the [CENTER|similar](url) at the [UNIVERSITY|similar](url) as part of the [Epiverse-TRACE program](https://data.org/initiatives/epiverse/).
 
 ## Installation
 
-You can install the development version of {{ packagename }} from
+You can install the development version of epitraining2 from
 [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("pak")
-pak::pak("{{ gh_repo }}")
+pak::pak("avallecam")
 ```
 
 ## Example
@@ -59,10 +59,10 @@ for use outside of the development team.
 
 ### Contributions
 
-Contributions are welcome via [pull requests](https://github.com/{{ gh_repo }}/pulls).
+Contributions are welcome via [pull requests](https://github.com/avallecam/pulls).
 
 ### Code of Conduct
 
-Please note that the {{ packagename }} project is released with a 
+Please note that the epitraining2 project is released with a 
 [Contributor Code of Conduct](https://github.com/epiverse-trace/.github/blob/main/CODE_OF_CONDUCT.md).
 By contributing to this project, you agree to abide by its terms.
