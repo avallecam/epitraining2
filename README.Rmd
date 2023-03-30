@@ -22,8 +22,8 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![R-CMD-check](https://github.com/avallecam/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/avallecam/actions/workflows/R-CMD-check.yaml)
-[![Codecov test coverage](https://codecov.io/gh/avallecam/branch/main/graph/badge.svg)](https://app.codecov.io/gh/avallecam?branch=main)
+[![R-CMD-check](https://github.com/avallecam/epitraining2/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/avallecam/epitraining2/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/avallecam/epitraining2/branch/main/graph/badge.svg)](https://app.codecov.io/gh/avallecam/epitraining2?branch=main)
 [![lifecycle-concept](https://raw.githubusercontent.com/reconverse/reconverse.github.io/master/images/badge-concept.svg)](https://www.reconverse.org/lifecycle.html#concept) 
 <!-- badges: end -->
 
@@ -39,7 +39,7 @@ You can install the development version of epitraining2 from
 
 ``` r
 # install.packages("pak")
-pak::pak("avallecam")
+pak::pak("avallecam/epitraining2")
 ```
 
 ## Example
@@ -59,7 +59,7 @@ for use outside of the development team.
 
 ### Contributions
 
-Contributions are welcome via [pull requests](https://github.com/avallecam/pulls).
+Contributions are welcome via [pull requests](https://github.com/avallecam/epitraining2/pulls).
 
 ### Code of Conduct
 
